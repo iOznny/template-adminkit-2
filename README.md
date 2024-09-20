@@ -70,3 +70,7 @@ Found a bug or have a feature request? [Please open a new issue](https://github.
 ## Upgrade to Pro version
 
 Get more power with AdminKit Pro, a premium variant of AdminKit, featuring hundreds of UI components, forms, tables, charts, pages, and icons. Check out [AdminKit Pro - Bootstrap 5 Admin Template](https://adminkit.io/pricing/).
+
+# Template image
+
+![Template Image](src/img/template.png)
